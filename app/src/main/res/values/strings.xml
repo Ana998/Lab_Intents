@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab_Intents</string>
+    <string name="go_to_explicit_activity">Go to explicit activity</string>
+    <string name="btn_submit">Во ред</string>
+    <string name="btn_cancel">Откажи</string>
+    <string name="btn_go_to_implicit_activity">Go to implicit activity</string>
+    <string name="btn_send_message">Send message</string>
+    <string name="btn_select_image">Select an image</string>
+</resources>
